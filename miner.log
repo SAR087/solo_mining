@@ -1,0 +1,748 @@
+2023-03-25 13:08:11,792 [*] Subscribe thread started.
+2023-03-25 13:08:15,797 [*] Bitcoin Miner Thread Started
+2023-03-25 13:08:17,726 [*] Working to solve block with height 782426
+2023-03-25 13:10:36,588 [*] Miner()
+2023-03-25 13:10:36,590 logg() takes 1 positional argument but 4 were given
+2023-03-25 13:11:37,754 [*] Subscribe thread started.
+2023-03-25 13:11:41,758 [*] Bitcoin Miner Thread Started
+2023-03-25 13:11:42,861 [*] Working to solve block with height 782427
+2023-03-25 13:18:42,322 [*] Miner()
+2023-03-25 13:18:42,326 logg() takes 1 positional argument but 4 were given
+2023-03-25 13:19:06,004 [*] Subscribe thread started.
+2023-03-25 13:19:10,009 [*] Bitcoin Miner Thread Started
+2023-03-25 13:19:11,026 [*] Working to solve block with height 782427
+2023-03-25 13:20:07,656 [*] Miner()
+2023-03-25 13:20:07,656 logg() takes 1 positional argument but 4 were given
+2023-03-25 13:21:10,036 [*] Subscribe thread started.
+2023-03-25 13:21:14,042 [*] Bitcoin Miner Thread Started
+2023-03-25 13:21:15,402 [*] Working to solve block with height 782427
+2023-03-25 13:21:38,759 [*] Miner()
+2023-03-25 13:21:38,759 logg() takes 1 positional argument but 3 were given
+2023-03-25 13:22:58,121 [*] Subscribe thread started.
+2023-03-25 13:23:02,124 [*] Bitcoin Miner Thread Started
+2023-03-25 13:23:07,140 [*] Subscribe thread started.
+2023-03-25 13:23:11,144 [*] Bitcoin Miner Thread Started
+2023-03-25 13:23:12,142 [*] Working to solve block with height 782427
+2023-03-25 13:23:17,144 false
+2023-03-25 13:24:48,733 [*] Subscribe thread started.
+2023-03-25 13:24:52,735 [*] Bitcoin Miner Thread Started
+2023-03-25 13:24:54,193 [*] Working to solve block with height 782427
+2023-03-25 13:26:20,340 false
+2023-03-25 13:27:28,071 [*] Subscribe thread started.
+2023-03-25 13:27:32,075 [*] Bitcoin Miner Thread Started
+2023-03-25 13:27:32,915 [*] Working to solve block with height 782427
+2023-03-25 13:27:36,765 false
+2023-03-25 13:37:00,320 [*] Subscribe thread started.
+2023-03-25 13:37:04,325 [*] Bitcoin Miner Thread Started
+2023-03-25 13:37:05,200 [*] Working to solve block with height 782427
+2023-03-25 13:37:08,708 [*] New hash: 00000009ff53a1bcf872e791b436ddab00cf1276267e0c3a3d73a0ca41e7bfec for block 782427
+2023-03-25 13:41:40,452 [*] New block 1ef82003c6d91952d9f34bf0167fa6ffdc423c9d0001a4e20000000000000000 detected on network 
+2023-03-25 13:41:40,456 [*] Best difficulty will trying to solve block 782427 was 0.10002630822102336
+2023-03-25 13:41:40,456 
+[*] Bitcoin Miner restarted
+2023-03-25 13:41:46,554 [*] Working to solve block with height 782428
+2023-03-25 13:54:59,642 [*] Subscribe thread()
+2023-03-25 13:54:59,664 [Errno 103] Software caused connection abort
+2023-03-25 13:55:01,854 [*] Subscribe thread()
+2023-03-25 13:55:01,865 [Errno 7] No address associated with hostname
+2023-03-25 13:55:03,927 [*] Subscribe thread()
+2023-03-25 13:55:03,938 [Errno 7] No address associated with hostname
+2023-03-25 13:55:06,370 [*] Subscribe thread()
+2023-03-25 13:55:06,381 [Errno 101] Network is unreachable
+2023-03-25 14:00:17,660 false
+2023-03-25 14:01:04,923 [*] Subscribe thread started.
+2023-03-25 14:01:08,928 [*] Bitcoin Miner Thread Started
+2023-03-25 14:01:10,165 [*] Working to solve block with height 782428
+2023-03-25 14:07:36,030 [*] New block 8a6a4e72cdda946fc94e5165ebbe3db9f909f1e90004f7e40000000000000000 detected on network 
+2023-03-25 14:07:36,074 [*] Best difficulty will trying to solve block 782428 was 0.003392758834722905
+2023-03-25 14:07:36,074 
+[*] Bitcoin Miner restarted
+2023-03-25 14:07:54,512 [*] Working to solve block with height 782429
+2023-03-25 14:12:17,032 [*] New block a40fda593ec226e321a116edbb6631f655eb8f5c0000ac430000000000000000 detected on network 
+2023-03-25 14:12:17,033 [*] Subscribe thread()
+2023-03-25 14:12:17,034 [*] Best difficulty will trying to solve block 782429 was 7.408437186335369e-05
+2023-03-25 14:12:17,035 Extra data: line 1 column 4 (char 3)
+2023-03-25 14:12:17,038 
+[*] Bitcoin Miner restarted
+2023-03-25 14:14:33,669 [*] Working to solve block with height 782431
+2023-03-25 14:23:11,036 [*] New block 766d17812564a90a05794e9ff46cb3f1091be674000107150000000000000000 detected on network 
+2023-03-25 14:23:11,036 [*] Subscribe thread()
+2023-03-25 14:23:11,037 [*] Best difficulty will trying to solve block 782431 was 0.0005013071220060537
+2023-03-25 14:23:11,037 Extra data: line 1 column 4 (char 3)
+2023-03-25 14:23:11,038 
+[*] Bitcoin Miner restarted
+2023-03-25 14:23:39,149 [*] Working to solve block with height 782432
+2023-03-25 14:24:36,693 [*] New block 973a08f43bbab240e06adc9b08bb2b257ee09d5300009d2e0000000000000000 detected on network 
+2023-03-25 14:24:36,695 [*] Best difficulty will trying to solve block 782432 was 0.024887668106742904
+2023-03-25 14:24:36,695 
+[*] Bitcoin Miner restarted
+2023-03-25 14:24:42,123 [*] Working to solve block with height 782432
+2023-03-25 14:34:55,283 false
+2023-03-25 14:35:43,302 [*] Subscribe thread started.
+2023-03-25 14:35:47,306 [*] Bitcoin Miner Thread Started
+2023-03-25 14:35:48,166 [*] Working to solve block with height 782433
+2023-03-25 14:37:30,440 [*] New block 287cc8ac1c40f676e0a3d441b131f16dbd9b84290000b4ec0000000000000000 detected on network 
+2023-03-25 14:37:30,442 [*] Best difficulty will trying to solve block 782433 was 0.001321079443774756
+2023-03-25 14:37:30,443 
+[*] Bitcoin Miner restarted
+2023-03-25 14:37:35,887 [*] Working to solve block with height 782434
+2023-03-25 14:37:53,148 [*] New hash: 0000000771968e1369027f00ce533ac8181fff0fe78ea37716448dc27b7edb56 for block 782434
+2023-03-25 14:41:13,708 [*] New block 103e69aa19e2db3cb17f658cad4405b5a7ece1b40001f3970000000000000000 detected on network 
+2023-03-25 14:41:13,712 [*] Best difficulty will trying to solve block 782434 was 0.1343417285581732
+2023-03-25 14:41:13,712 
+[*] Bitcoin Miner restarted
+2023-03-25 14:41:23,686 [*] Working to solve block with height 782435
+2023-03-25 14:50:15,781 false
+2023-03-25 14:51:18,126 [*] Subscribe thread started.
+2023-03-25 14:51:22,133 [*] Bitcoin Miner Thread Started
+2023-03-25 14:51:24,112 [*] Working to solve block with height 782435
+2023-03-25 14:52:53,681 false
+2023-03-25 14:54:53,488 [*] Subscribe thread started.
+2023-03-25 14:54:57,491 [*] Bitcoin Miner Thread Started
+2023-03-25 14:54:58,372 [*] Working to solve block with height 782436
+2023-03-25 15:10:53,760 [*] New hash: 000000002ff768094bede13edcf7d432e351c7fef133a496f2f63a615d6d4f77 for block 782436
+2023-03-25 15:21:14,927 false
+2023-03-25 15:21:54,576 [*] Subscribe thread started.
+2023-03-25 15:21:58,582 [*] Bitcoin Miner Thread Started
+2023-03-25 15:22:00,703 [*] Working to solve block with height 782436
+2023-03-25 15:26:13,558 false
+2023-03-25 15:26:18,648 [*] Subscribe thread started.
+2023-03-25 15:26:22,653 [*] Bitcoin Miner Thread Started
+2023-03-25 15:26:23,192 [*] Working to solve block with height 782437
+2023-03-25 15:30:29,946 [*] New block 765ef43b777fb99fa0084325d5f34344764fb3070000a2030000000000000000 detected on network 
+2023-03-25 15:30:29,951 [*] Best difficulty will trying to solve block 782437 was 0.03426390332331279
+2023-03-25 15:30:29,952 
+[*] Bitcoin Miner restarted
+2023-03-25 15:30:36,636 [*] Working to solve block with height 782437
+2023-03-25 15:34:12,003 false
+2023-03-25 15:34:36,232 [*] Subscribe thread started.
+2023-03-25 15:34:40,238 [*] Bitcoin Miner Thread Started
+2023-03-25 15:34:41,664 [*] Working to solve block with height 782438
+2023-03-25 15:37:51,575 [*] New block a08d102bb8021dacf4305069d622384b6d9b05f4000540e90000000000000000 detected on network 
+2023-03-25 15:37:51,575 [*] Best difficulty will trying to solve block 782438 was 0.030677132365092508
+2023-03-25 15:37:51,576 
+[*] Bitcoin Miner restarted
+2023-03-25 15:37:57,389 [*] Working to solve block with height 782438
+2023-03-25 15:38:13,416 false
+2023-03-25 15:38:55,090 [*] Subscribe thread started.
+2023-03-25 15:38:59,097 [*] Bitcoin Miner Thread Started
+2023-03-25 15:38:59,688 [*] Working to solve block with height 782439
+2023-03-25 15:40:54,685 false
+2023-03-25 21:34:20,364 [*] Subscribe thread started.
+2023-03-25 21:34:24,370 [*] Bitcoin Miner Thread Started
+2023-03-25 21:34:25,276 [*] Working to solve block with height 782474
+2023-03-25 21:43:41,033 [*] Subscribe thread()
+2023-03-25 21:43:41,033 [*] New block 4649244ea78894bb744decc46160aea3911de05400032a950000000000000000 detected on network 
+2023-03-25 21:43:41,035 Extra data: line 1 column 4 (char 3)
+2023-03-25 21:43:41,041 [*] Best difficulty will trying to solve block 782474 was 0.011492190340522781
+2023-03-25 21:43:41,044 
+[*] Bitcoin Miner restarted
+2023-03-25 21:44:43,929 [*] Working to solve block with height 782475
+2023-03-25 21:47:27,181 false
+2023-03-25 21:47:43,647 [*] Subscribe thread started.
+2023-03-25 21:47:47,652 [*] Bitcoin Miner Thread Started
+2023-03-25 21:47:48,205 [*] Working to solve block with height 782475
+2023-03-25 22:00:32,043 [*] New hash: 000000073f82d6c1e18c1a2db59334182511f6595576c5e4446f9d62e7392e86 for block 782475
+2023-03-25 22:04:38,343 [*] New block 4a04a1ff056f0b2a1b7cd852843775f598095b660001d8bc0000000000000000 detected on network 
+2023-03-25 22:04:38,344 [*] Best difficulty will trying to solve block 782475 was 0.13796737807569015
+2023-03-25 22:04:38,344 
+[*] Bitcoin Miner restarted
+2023-03-25 22:04:45,397 [*] Working to solve block with height 782476
+2023-03-25 22:13:30,214 [*] New hash: 00000007b0ca4ed8118c6f7b728f6a3ae239a54211cf5310351c8c0a21890c52 for block 782476
+2023-03-25 22:16:47,587 [*] New hash: 000000053ebd0bd77b3b8f0d8dd68befd79b029a7693f302e6cfac47e69a25fd for block 782476
+2023-03-25 22:23:08,025 [*] New hash: 00000002f3e23a208c0e9002b63e77c405933599a679e53bbe36d0b92c5b877b for block 782476
+2023-03-25 22:24:58,498 [*] New block 75f213788ee82699e34cb3cea2392fb1412084ae0003757a0000000000000000 detected on network 
+2023-03-25 22:24:58,500 [*] Best difficulty will trying to solve block 782476 was 0.338676439492432
+2023-03-25 22:24:58,501 
+[*] Bitcoin Miner restarted
+2023-03-25 22:25:06,631 [*] Working to solve block with height 782477
+2023-03-25 22:30:43,151 [*] New block 3cb1bfd0f5c3b853242f6296b7a50d93bb3cce7f0001b2aa0000000000000000 detected on network 
+2023-03-25 22:30:43,156 [*] Best difficulty will trying to solve block 782477 was 0.0016009427291395952
+2023-03-25 22:30:43,156 
+[*] Bitcoin Miner restarted
+2023-03-25 22:30:50,853 [*] Working to solve block with height 782478
+2023-03-25 22:34:46,177 [*] New block 4f4945ce9119ed58a274e0c81ef9f26d63ab9b750003b5340000000000000000 detected on network 
+2023-03-25 22:34:46,182 [*] Best difficulty will trying to solve block 782478 was 0.007246011649493522
+2023-03-25 22:34:46,182 
+[*] Bitcoin Miner restarted
+2023-03-25 22:34:51,801 [*] Working to solve block with height 782478
+2023-03-25 22:35:33,183 false
+2023-03-25 22:35:51,196 [*] Subscribe thread started.
+2023-03-25 22:35:55,202 [*] Bitcoin Miner Thread Started
+2023-03-25 22:35:56,816 [*] Working to solve block with height 782479
+2023-03-25 22:42:47,126 [*] New block a047df3e5416009eb6806e6ee07c0409b422f6b50000ebfc0000000000000000 detected on network 
+2023-03-25 22:42:47,130 [*] Best difficulty will trying to solve block 782479 was 0.02136605668893685
+2023-03-25 22:42:47,130 
+[*] Bitcoin Miner restarted
+2023-03-25 22:42:52,750 [*] Working to solve block with height 782479
+2023-03-25 22:43:03,774 false
+2023-03-25 22:43:29,549 [*] Subscribe thread started.
+2023-03-25 22:43:33,552 [*] Bitcoin Miner Thread Started
+2023-03-25 22:43:34,469 [*] Working to solve block with height 782481
+2023-03-25 22:48:21,902 false
+2023-03-25 22:50:38,528 [*] Subscribe thread started.
+2023-03-25 22:50:42,532 [*] Bitcoin Miner Thread Started
+2023-03-25 22:50:45,604 [*] Working to solve block with height 782481
+2023-03-25 22:52:56,057 [*] New block 42cd929e120ea4bc6498cd8cad6719d44bb1153b0001d4af0000000000000000 detected on network 
+2023-03-25 22:52:56,061 [*] Best difficulty will trying to solve block 782481 was 0.0021332554793837555
+2023-03-25 22:52:56,062 
+[*] Bitcoin Miner restarted
+2023-03-25 22:53:08,614 [*] Working to solve block with height 782482
+2023-03-25 22:54:59,988 [*] New block 077c3769779c775a7ca221c9100bd11a24f3e63000001d550000000000000000 detected on network 
+2023-03-25 22:54:59,991 [*] Best difficulty will trying to solve block 782482 was 0.002569698225458293
+2023-03-25 22:54:59,991 
+[*] Bitcoin Miner restarted
+2023-03-25 22:55:06,873 [*] Working to solve block with height 782482
+2023-03-25 23:00:13,153 [*] New block 463a1a228f0b64c1dd05183362f1a54972592fdf0004e0160000000000000000 detected on network 
+2023-03-25 23:00:13,156 [*] Best difficulty will trying to solve block 782482 was 0.00359751530151992
+2023-03-25 23:00:13,156 
+[*] Bitcoin Miner restarted
+2023-03-25 23:00:18,860 [*] Working to solve block with height 782484
+2023-03-25 23:02:09,539 [*] New hash: 0000000aaca9853f887e66518116db7d1cd5c3d3c1127b01c0eb47f45fb76a5b for block 782484
+2023-03-25 23:15:48,621 [*] New block fcc98f7be60fda9efdcf2e791a68c98372793e96000365c20000000000000000 detected on network 
+2023-03-25 23:15:48,627 [*] Best difficulty will trying to solve block 782484 was 0.09368153919199937
+2023-03-25 23:15:48,628 
+[*] Bitcoin Miner restarted
+2023-03-25 23:15:54,448 [*] Working to solve block with height 782484
+2023-03-25 23:19:53,146 [*] New block 14afc8147ed9ce00a8f9da996e49c8a517c266aa0001c0e70000000000000000 detected on network 
+2023-03-25 23:19:53,159 [*] Best difficulty will trying to solve block 782484 was 0.008564394978674754
+2023-03-25 23:19:53,160 
+[*] Bitcoin Miner restarted
+2023-03-25 23:19:59,446 [*] Working to solve block with height 782486
+2023-03-25 23:24:13,708 [*] New block f7a022643af7b6fdf4691f3fa480f1c1cf7d65f3000144760000000000000000 detected on network 
+2023-03-25 23:24:13,728 [*] Best difficulty will trying to solve block 782486 was 0.0078879285180441
+2023-03-25 23:24:13,728 
+[*] Bitcoin Miner restarted
+2023-03-25 23:24:22,381 [*] Working to solve block with height 782487
+2023-03-25 23:24:37,508 [*] New block 493c0e24c01c74f310f122759af3878c3fe63132000164dc0000000000000000 detected on network 
+2023-03-25 23:24:37,508 [*] Best difficulty will trying to solve block 782487 was 0.0003536189224389485
+2023-03-25 23:24:37,509 
+[*] Bitcoin Miner restarted
+2023-03-25 23:24:49,260 [*] Working to solve block with height 782488
+2023-03-25 23:44:07,082 [*] New block 3043e1b5ba697cddaff82eeea431344d4f10599800001da50000000000000000 detected on network 
+2023-03-25 23:44:07,085 [*] Subscribe thread()
+2023-03-25 23:44:07,088 [*] Best difficulty will trying to solve block 782488 was 0.04778632466152697
+2023-03-25 23:44:07,088 Extra data: line 1 column 4 (char 3)
+2023-03-25 23:44:07,088 
+[*] Bitcoin Miner restarted
+2023-03-25 23:44:13,811 [*] Working to solve block with height 782488
+2023-03-25 23:58:41,815 [*] New block b616470c5dbc79c709fe84adf119470e449d808b0002e8360000000000000000 detected on network 
+2023-03-25 23:58:41,819 [*] Best difficulty will trying to solve block 782488 was 0.02030378298855616
+2023-03-25 23:58:41,820 
+[*] Bitcoin Miner restarted
+2023-03-25 23:58:48,563 [*] Working to solve block with height 782489
+2023-03-26 00:02:12,712 [*] Subscribe thread()
+2023-03-26 00:02:12,725 [Errno 103] Software caused connection abort
+2023-03-26 00:02:14,807 [*] Subscribe thread()
+2023-03-26 00:02:14,820 [Errno 7] No address associated with hostname
+2023-03-26 00:02:16,859 [*] Subscribe thread()
+2023-03-26 00:02:16,859 [Errno 7] No address associated with hostname
+2023-03-26 00:02:18,890 [*] Subscribe thread()
+2023-03-26 00:02:18,902 [Errno 7] No address associated with hostname
+2023-03-26 00:02:20,946 [*] Subscribe thread()
+2023-03-26 00:02:20,958 [Errno 7] No address associated with hostname
+2023-03-26 00:02:22,978 [*] Subscribe thread()
+2023-03-26 00:02:22,984 [Errno 7] No address associated with hostname
+2023-03-26 00:02:25,060 [*] Subscribe thread()
+2023-03-26 00:02:25,073 [Errno 7] No address associated with hostname
+2023-03-26 00:02:27,146 [*] Subscribe thread()
+2023-03-26 00:02:27,157 [Errno 7] No address associated with hostname
+2023-03-26 00:02:29,226 [*] Subscribe thread()
+2023-03-26 00:02:29,237 [Errno 7] No address associated with hostname
+2023-03-26 00:02:31,291 [*] Subscribe thread()
+2023-03-26 00:02:31,292 [Errno 7] No address associated with hostname
+2023-03-26 00:02:33,328 [*] Subscribe thread()
+2023-03-26 00:02:33,329 [Errno 7] No address associated with hostname
+2023-03-26 00:05:30,556 [*] New block 91ee4208c541e7649152d7518ff3c8988ae190c9000295940000000000000000 detected on network 
+2023-03-26 00:05:30,558 [*] Best difficulty will trying to solve block 782489 was 0.01751458309327648
+2023-03-26 00:05:30,558 
+[*] Bitcoin Miner restarted
+2023-03-26 00:05:37,023 [*] Working to solve block with height 782491
+2023-03-26 00:07:18,805 [*] New block f89945e7abc82f3405e0d8af5e3cf0bf695650f2000597e20000000000000000 detected on network 
+2023-03-26 00:07:18,806 [*] Best difficulty will trying to solve block 782491 was 0.002119941023449038
+2023-03-26 00:07:18,806 
+[*] Bitcoin Miner restarted
+2023-03-26 00:07:24,604 [*] Working to solve block with height 782491
+2023-03-26 00:12:00,387 [*] New block 6c3d1733a86210f30f1b89c0d2a0d44929c4eab60002ce4b0000000000000000 detected on network 
+2023-03-26 00:12:00,390 [*] Best difficulty will trying to solve block 782491 was 0.011531513142189668
+2023-03-26 00:12:00,391 
+[*] Bitcoin Miner restarted
+2023-03-26 00:12:05,976 [*] Working to solve block with height 782493
+2023-03-26 00:26:06,166 [*] Subscribe thread()
+2023-03-26 00:26:06,188 Expecting value: line 1 column 1 (char 0)
+2023-03-26 00:27:58,036 [*] New block 78a41adb946d56315c4b0b4d0b1ce3fa1f4715990002273d0000000000000000 detected on network 
+2023-03-26 00:27:58,037 [*] Best difficulty will trying to solve block 782493 was 0.029337046639255834
+2023-03-26 00:27:58,037 
+[*] Bitcoin Miner restarted
+2023-03-26 00:29:46,635 [*] Working to solve block with height 782494
+2023-03-26 00:40:10,040 [*] Subscribe thread()
+2023-03-26 00:40:10,041 [*] New block 05b31dfdb6a640384b2b393f12ad5604e525e353000582660000000000000000 detected on network 
+2023-03-26 00:40:10,041 Extra data: line 1 column 4 (char 3)
+2023-03-26 00:40:10,042 [*] Best difficulty will trying to solve block 782494 was 0.0013973370870067911
+2023-03-26 00:40:10,044 
+[*] Bitcoin Miner restarted
+2023-03-26 00:41:40,337 [*] Working to solve block with height 782496
+2023-03-26 00:53:45,533 [*] New hash: 0000000e9a2137ddd4752a194417eaf764fd2e51a69787bc80fd085f9e9bfc30 for block 782496
+2023-03-26 00:56:04,057 [*] New block cb11bc5b13864aeb8921f27f91d48dcd98514f3a000453890000000000000000 detected on network 
+2023-03-26 00:56:04,059 [*] Subscribe thread()
+2023-03-26 00:56:04,061 [*] Best difficulty will trying to solve block 782496 was 0.06848344400132658
+2023-03-26 00:56:04,063 Extra data: line 1 column 4 (char 3)
+2023-03-26 00:56:04,063 
+[*] Bitcoin Miner restarted
+2023-03-26 00:56:39,500 [*] Working to solve block with height 782497
+2023-03-26 00:57:59,605 [*] New block 1a9d01a644028cbabfc06ca3a081374a20d4dc79000080c90000000000000000 detected on network 
+2023-03-26 00:57:59,611 [*] Best difficulty will trying to solve block 782497 was 0.0018153332727912955
+2023-03-26 00:57:59,612 
+[*] Bitcoin Miner restarted
+2023-03-26 00:58:31,861 [*] Working to solve block with height 782497
+2023-03-26 01:01:25,038 [*] New block 86ee9a73a2d7cf3e8b255e3eb1f513d386e32cd300008c670000000000000000 detected on network 
+2023-03-26 01:01:25,070 [*] Best difficulty will trying to solve block 782497 was 0.01384591285249819
+2023-03-26 01:01:25,071 
+[*] Bitcoin Miner restarted
+2023-03-26 01:01:42,547 [*] Working to solve block with height 782498
+2023-03-26 01:19:29,575 [*] Subscribe thread()
+2023-03-26 01:19:29,590 Extra data: line 1 column 2 (char 1)
+2023-03-26 01:26:30,024 [*] Subscribe thread()
+2023-03-26 01:26:30,029 Extra data: line 1 column 2 (char 1)
+2023-03-26 01:31:20,519 [*] Subscribe thread()
+2023-03-26 01:31:20,535 Extra data: line 1 column 2 (char 1)
+2023-03-26 01:34:35,881 [*] Subscribe thread()
+2023-03-26 01:34:35,882 Extra data: line 1 column 4 (char 3)
+2023-03-26 01:34:35,883 [*] New block c93b3682c929e5d5ad8e079ec16300925f734c880005b4310000000000000000 detected on network 
+2023-03-26 01:34:35,886 [*] Best difficulty will trying to solve block 782498 was 0.0037482141134305823
+2023-03-26 01:34:35,887 
+[*] Bitcoin Miner restarted
+2023-03-26 01:35:15,556 [*] Working to solve block with height 782502
+2023-03-26 01:39:49,039 [*] New block 4c92deeb2f3194af1e50831172d4afe04a428c67000437c10000000000000000 detected on network 
+2023-03-26 01:39:49,040 [*] Best difficulty will trying to solve block 782502 was 0.0027598110398789743
+2023-03-26 01:39:49,040 
+[*] Bitcoin Miner restarted
+2023-03-26 01:40:37,599 [*] Working to solve block with height 782503
+2023-03-26 01:42:12,737 [*] Subscribe thread()
+2023-03-26 01:42:12,743 [Errno 103] Software caused connection abort
+2023-03-26 01:42:31,517 [*] Subscribe thread()
+2023-03-26 01:42:31,528 [Errno 7] No address associated with hostname
+2023-03-26 01:42:39,059 [*] Subscribe thread()
+2023-03-26 01:42:39,065 [Errno 7] No address associated with hostname
+2023-03-26 01:42:41,131 [*] Subscribe thread()
+2023-03-26 01:42:41,143 [Errno 7] No address associated with hostname
+2023-03-26 01:43:56,032 [*] New block 311d5c10c53180f747636a517c983b7c8d64a90c0004f5010000000000000000 detected on network 
+2023-03-26 01:43:56,032 [*] Best difficulty will trying to solve block 782503 was 0.001827409453530109
+2023-03-26 01:43:56,033 
+[*] Bitcoin Miner restarted
+2023-03-26 01:44:44,580 [*] Working to solve block with height 782504
+2023-03-26 01:48:13,753 [*] New block cbf4553eb455c94209bcdb5d87b8a9116a0a54fe00055bf00000000000000000 detected on network 
+2023-03-26 01:48:13,753 [*] Best difficulty will trying to solve block 782504 was 0.0012882105853298275
+2023-03-26 01:48:13,754 
+[*] Bitcoin Miner restarted
+2023-03-26 01:48:48,679 [*] Working to solve block with height 782505
+2023-03-26 01:58:38,600 [*] Subscribe thread()
+2023-03-26 01:58:38,623 Expecting value: line 1 column 1 (char 0)
+2023-03-26 02:01:55,567 [*] Subscribe thread()
+2023-03-26 02:01:55,573 Extra data: line 1 column 7 (char 6)
+2023-03-26 02:17:07,596 [*] New block 7ec70265f0e35a9e9253ece7d6390a0272111e6e00001a220000000000000000 detected on network 
+2023-03-26 02:17:07,597 [*] Best difficulty will trying to solve block 782505 was 0.00305500624960832
+2023-03-26 02:17:07,597 
+[*] Bitcoin Miner restarted
+2023-03-26 02:17:07,598 [*] Subscribe thread()
+2023-03-26 02:17:07,599 Extra data: line 1 column 4 (char 3)
+2023-03-26 02:17:35,131 [*] Working to solve block with height 782508
+2023-03-26 02:23:45,766 [*] Subscribe thread()
+2023-03-26 02:23:45,777 Expecting value: line 1 column 1 (char 0)
+2023-03-26 02:34:55,563 [*] Subscribe thread()
+2023-03-26 02:34:55,592 Extra data: line 1 column 3 (char 2)
+2023-03-26 02:41:38,498 [*] New block bc0b9625c1bd49d2a04b8def7c8068c0043dad810004b18d0000000000000000 detected on network 
+2023-03-26 02:41:38,499 [*] Subscribe thread()
+2023-03-26 02:41:38,499 [*] Best difficulty will trying to solve block 782508 was 0.0065904063533262
+2023-03-26 02:41:38,500 Extra data: line 1 column 4 (char 3)
+2023-03-26 02:41:38,500 
+[*] Bitcoin Miner restarted
+2023-03-26 02:42:41,752 [*] Working to solve block with height 782511
+2023-03-26 02:44:11,934 [*] Subscribe thread()
+2023-03-26 02:44:11,935 [Errno 103] Software caused connection abort
+2023-03-26 02:44:19,702 [*] Subscribe thread()
+2023-03-26 02:44:19,713 [Errno 7] No address associated with hostname
+2023-03-26 02:44:21,754 [*] Subscribe thread()
+2023-03-26 02:44:21,755 [Errno 7] No address associated with hostname
+2023-03-26 02:48:36,492 [*] Subscribe thread()
+2023-03-26 02:48:36,521 Extra data: line 1 column 2 (char 1)
+2023-03-26 02:50:52,033 [*] New block d4f90a68b80377fc7ee1a1cb3741c0e83f9036d70002f36a0000000000000000 detected on network 
+2023-03-26 02:50:52,034 [*] Subscribe thread()
+2023-03-26 02:50:52,035 [*] Best difficulty will trying to solve block 782511 was 0.0037227226795396168
+2023-03-26 02:50:52,035 Extra data: line 1 column 4 (char 3)
+2023-03-26 02:50:52,036 
+[*] Bitcoin Miner restarted
+2023-03-26 02:51:28,716 [*] Working to solve block with height 782512
+2023-03-26 02:52:28,818 [*] Subscribe thread()
+2023-03-26 02:52:28,819 [*] New block 4d6d544f2391a1b3379bb60b7169b6e2eebb72e5000100d80000000000000000 detected on network 
+2023-03-26 02:52:28,819 Extra data: line 1 column 4 (char 3)
+2023-03-26 02:52:28,819 [*] Best difficulty will trying to solve block 782512 was 0.002298772884265486
+2023-03-26 02:52:28,823 
+[*] Bitcoin Miner restarted
+2023-03-26 02:53:02,261 [*] Working to solve block with height 782513
+2023-03-26 03:02:43,035 [*] Subscribe thread()
+2023-03-26 03:02:43,036 [*] New block 761ab3c726004902b4d35a8680eab2b6214d0ebc000238450000000000000000 detected on network 
+2023-03-26 03:02:43,060 Extra data: line 1 column 4 (char 3)
+2023-03-26 03:02:43,062 [*] Best difficulty will trying to solve block 782513 was 0.0018863324914060947
+2023-03-26 03:02:43,069 
+[*] Bitcoin Miner restarted
+2023-03-26 03:03:28,166 [*] Working to solve block with height 782514
+2023-03-26 03:06:00,029 [*] Subscribe thread()
+2023-03-26 03:06:00,030 Extra data: line 1 column 4 (char 3)
+2023-03-26 03:06:00,033 [*] New block d92c4473f8dce45f3397153f733d51f4c85af6b60003ecf70000000000000000 detected on network 
+2023-03-26 03:06:00,037 [*] Best difficulty will trying to solve block 782514 was 0.022437582748462373
+2023-03-26 03:06:00,037 
+[*] Bitcoin Miner restarted
+2023-03-26 03:06:42,609 [*] Working to solve block with height 782515
+2023-03-26 03:08:06,392 [*] Subscribe thread()
+2023-03-26 03:08:06,403 [Errno 103] Software caused connection abort
+2023-03-26 03:08:33,037 [*] Subscribe thread()
+2023-03-26 03:08:33,043 [Errno 7] No address associated with hostname
+2023-03-26 03:08:35,083 [*] Subscribe thread()
+2023-03-26 03:08:35,094 [Errno 7] No address associated with hostname
+2023-03-26 03:08:37,163 [*] Subscribe thread()
+2023-03-26 03:08:37,164 [Errno 7] No address associated with hostname
+2023-03-26 03:19:31,034 [*] Subscribe thread()
+2023-03-26 03:19:31,072 Extra data: line 1 column 4 (char 3)
+2023-03-26 03:19:31,035 [*] New block 6fa8f1a2219b690e0da01febbd3a88520581479d0003f6fe0000000000000000 detected on network 
+2023-03-26 03:19:31,075 [*] Best difficulty will trying to solve block 782515 was 0.029497872954432583
+2023-03-26 03:19:31,075 
+[*] Bitcoin Miner restarted
+2023-03-26 03:20:14,200 [*] Working to solve block with height 782516
+2023-03-26 03:30:59,479 [*] Subscribe thread()
+2023-03-26 03:30:59,480 Extra data: line 1 column 2 (char 1)
+2023-03-26 03:46:05,081 [*] New hash: 0000000b8faa98812e0a9955a492e9f6cef98f9aa5ba53300736b4140086b8ce for block 782516
+2023-03-26 03:46:34,768 [*] New block c3f405e6f9ab13b137c688cf14abbf775fb9a18700045e090000000000000000 detected on network 
+2023-03-26 03:46:34,768 [*] Best difficulty will trying to solve block 782516 was 0.08649623515174762
+2023-03-26 03:46:34,769 
+[*] Bitcoin Miner restarted
+2023-03-26 03:47:23,234 [*] Working to solve block with height 782518
+2023-03-26 03:49:00,037 [*] New block 16b5e83feb76aea471e99bb35ea3d71869dc224400040a5b0000000000000000 detected on network 
+2023-03-26 03:49:00,038 [*] Best difficulty will trying to solve block 782518 was 0.0005065782503715549
+2023-03-26 03:49:00,038 
+[*] Bitcoin Miner restarted
+2023-03-26 03:49:49,405 [*] Working to solve block with height 782519
+2023-03-26 03:58:27,035 [*] New block ba75070fdf1ce5e143f8b4744ac6c6b21c2bb1a90004e56b0000000000000000 detected on network 
+2023-03-26 03:58:27,057 [*] Best difficulty will trying to solve block 782519 was 0.011045167191049775
+2023-03-26 03:58:27,058 
+[*] Bitcoin Miner restarted
+2023-03-26 03:58:45,310 [*] Working to solve block with height 782520
+2023-03-26 04:03:53,445 [*] Subscribe thread()
+2023-03-26 04:03:53,452 Extra data: line 1 column 2 (char 1)
+2023-03-26 04:11:54,502 [*] Subscribe thread()
+2023-03-26 04:11:54,514 Extra data: line 1 column 2 (char 1)
+2023-03-26 04:15:47,561 [*] New hash: 0000000cf0513fd83c89cbedb1e6ba3610085d2ada4f4a80bfd634d495d2acca for block 782520
+2023-03-26 04:18:47,084 [*] New hash: 000000058688805a332100ae128be209fbadae23f2a64208c60fce07cb1b5f28 for block 782520
+2023-03-26 04:25:46,103 [*] Subscribe thread()
+2023-03-26 04:25:46,139 Extra data: line 1 column 2 (char 1)
+2023-03-26 04:42:17,979 [*] New block 2f63c505a206da486774b82a95f659bb9b3db7a50003249d0000000000000000 detected on network 
+2023-03-26 04:42:17,984 [*] Subscribe thread()
+2023-03-26 04:42:17,986 [*] Best difficulty will trying to solve block 782520 was 0.18097843052495624
+2023-03-26 04:42:17,988 Extra data: line 1 column 4 (char 3)
+2023-03-26 04:42:17,988 
+[*] Bitcoin Miner restarted
+2023-03-26 04:42:24,271 [*] Working to solve block with height 782523
+2023-03-26 04:48:15,032 [*] New block 9f7082b587b43eb1767cfcf44026b01c10445d030004dfea0000000000000000 detected on network 
+2023-03-26 04:48:15,033 [*] Best difficulty will trying to solve block 782523 was 0.00019645717299669927
+2023-03-26 04:48:15,033 
+[*] Bitcoin Miner restarted
+2023-03-26 04:52:28,246 [*] Subscribe thread()
+2023-03-26 04:52:28,247 Extra data: line 1 column 2 (char 1)
+2023-03-26 04:52:28,891 [*] Working to solve block with height 782525
+2023-03-26 04:52:28,891 [*] New block b28757c2b99cc7b176fc9a8cad790819b4696ad80000d4850000000000000000 detected on network 
+2023-03-26 04:52:28,892 [*] Best difficulty will trying to solve block 782525 was 0
+2023-03-26 04:52:28,892 
+[*] Bitcoin Miner restarted
+2023-03-26 04:54:21,285 [*] Working to solve block with height 782525
+2023-03-26 04:58:57,751 [*] Subscribe thread()
+2023-03-26 04:58:57,765 Expecting value: line 1 column 1 (char 0)
+2023-03-26 05:14:13,999 [*] New block 941bba4ba9630a17cb6f4c2ecf4edd3bf637544a000316bf0000000000000000 detected on network 
+2023-03-26 05:14:14,003 [*] Best difficulty will trying to solve block 782525 was 0.041642986910141316
+2023-03-26 05:14:14,003 
+[*] Bitcoin Miner restarted
+2023-03-26 05:14:19,853 [*] Working to solve block with height 782525
+2023-03-26 05:18:51,502 [*] New block f81d32f44dc101b06d505f0268a15b533d8d9c59000231bc0000000000000000 detected on network 
+2023-03-26 05:18:51,505 [*] Subscribe thread()
+2023-03-26 05:18:51,513 [*] Best difficulty will trying to solve block 782525 was 0.006216288846754497
+2023-03-26 05:18:51,514 Extra data: line 1 column 4 (char 3)
+2023-03-26 05:18:51,515 
+[*] Bitcoin Miner restarted
+2023-03-26 05:18:57,587 [*] Working to solve block with height 782527
+2023-03-26 05:41:19,854 [*] New block a1cded2e4d189d9a930d9ff5324bb10a35e8da130003cf780000000000000000 detected on network 
+2023-03-26 05:41:19,859 [*] Best difficulty will trying to solve block 782527 was 0.03328768470378539
+2023-03-26 05:41:19,859 
+[*] Bitcoin Miner restarted
+2023-03-26 05:41:26,873 [*] Working to solve block with height 782528
+2023-03-26 05:46:43,786 [*] New block 34be25c71c884380acb0126dfdc182d235438f4400057f600000000000000000 detected on network 
+2023-03-26 05:46:43,792 [*] Best difficulty will trying to solve block 782528 was 0.009097499167776892
+2023-03-26 05:46:43,792 
+[*] Bitcoin Miner restarted
+2023-03-26 05:46:49,781 [*] Working to solve block with height 782529
+2023-03-26 05:47:17,308 [*] New block 355636e8b1ea976114583d9f5f376cb563222fe20002c3e00000000000000000 detected on network 
+2023-03-26 05:47:17,308 [*] Best difficulty will trying to solve block 782529 was 0.004144584822218068
+2023-03-26 05:47:17,308 
+[*] Bitcoin Miner restarted
+2023-03-26 05:47:23,458 [*] Working to solve block with height 782530
+2023-03-26 05:53:16,033 [*] New block ed26999e859b56347c02fdd69cd87d72c1556a010003df450000000000000000 detected on network 
+2023-03-26 05:53:16,034 [*] Best difficulty will trying to solve block 782530 was 0.010030641742994248
+2023-03-26 05:53:16,034 
+[*] Bitcoin Miner restarted
+2023-03-26 05:54:46,981 [*] Working to solve block with height 782531
+2023-03-26 05:58:13,040 [*] New block ff3881c7b3bcd68cf84d945d8234e355e98c5c2a0004f6870000000000000000 detected on network 
+2023-03-26 05:58:13,057 [*] Best difficulty will trying to solve block 782531 was 0.027142180849827374
+2023-03-26 05:58:13,057 
+[*] Bitcoin Miner restarted
+2023-03-26 05:59:14,908 [*] Working to solve block with height 782532
+2023-03-26 06:06:15,689 [*] New block 965dfc5b24e7795ce98150776779896bc17f83fc0003f56e0000000000000000 detected on network 
+2023-03-26 06:06:15,689 [*] Best difficulty will trying to solve block 782532 was 0.000956227877771877
+2023-03-26 06:06:15,689 
+[*] Bitcoin Miner restarted
+2023-03-26 06:06:21,704 [*] Working to solve block with height 782533
+2023-03-26 06:16:45,054 [*] New block 79f35854fd81785be0c88d0bee04fd11cad339f20003b4bb0000000000000000 detected on network 
+2023-03-26 06:16:45,059 [*] Best difficulty will trying to solve block 782533 was 0.013451693709364426
+2023-03-26 06:16:45,060 
+[*] Bitcoin Miner restarted
+2023-03-26 06:16:51,939 [*] Working to solve block with height 782534
+2023-03-26 06:23:08,040 [*] New block 3cfe997e11bd0e71102c20aaae59a3bd884cea0f00018e020000000000000000 detected on network 
+2023-03-26 06:23:08,061 [*] Best difficulty will trying to solve block 782534 was 0.0125612812852974
+2023-03-26 06:23:08,062 
+[*] Bitcoin Miner restarted
+2023-03-26 06:23:19,494 [*] Working to solve block with height 782535
+2023-03-26 06:29:21,913 [*] New block d71a85f0f250b338d5416567c466f47f1cd00039000505730000000000000000 detected on network 
+2023-03-26 06:29:21,916 [*] Best difficulty will trying to solve block 782535 was 0.0011679989852869002
+2023-03-26 06:29:21,917 
+[*] Bitcoin Miner restarted
+2023-03-26 06:29:27,835 [*] Working to solve block with height 782536
+2023-03-26 06:39:35,230 [*] New block ed7480db3c4b69d65c6f916be7e9a699eb58b6da0005ac360000000000000000 detected on network 
+2023-03-26 06:39:35,230 [*] Best difficulty will trying to solve block 782536 was 0.013594542610591814
+2023-03-26 06:39:35,230 
+[*] Bitcoin Miner restarted
+2023-03-26 06:39:41,635 [*] Working to solve block with height 782537
+2023-03-26 06:40:42,268 [*] New block 3638ba2718c6bb980958f4da6253fedc4255b3dc0000bada0000000000000000 detected on network 
+2023-03-26 06:40:42,268 [*] Best difficulty will trying to solve block 782537 was 0.0022945075505870485
+2023-03-26 06:40:42,268 
+[*] Bitcoin Miner restarted
+2023-03-26 06:40:47,605 [*] Working to solve block with height 782538
+2023-03-26 06:43:31,426 [*] New block 4e1ebc3e9c2eb9f71d19abc94d89c2e8df35302e00017b080000000000000000 detected on network 
+2023-03-26 06:43:31,430 [*] Best difficulty will trying to solve block 782538 was 0.010601054430349454
+2023-03-26 06:43:31,430 
+[*] Bitcoin Miner restarted
+2023-03-26 06:43:36,911 [*] Working to solve block with height 782538
+2023-03-26 06:46:26,565 [*] New block deea13f72d573c0e4163e0d57f2f50f508046b58000332500000000000000000 detected on network 
+2023-03-26 06:46:26,565 [*] Best difficulty will trying to solve block 782538 was 0.004131798562724568
+2023-03-26 06:46:26,565 
+[*] Bitcoin Miner restarted
+2023-03-26 06:46:32,156 [*] Working to solve block with height 782540
+2023-03-26 06:51:53,343 [*] New block 4afe25058bb847f5250843e7b9fb14a9dbd6a9b500055de20000000000000000 detected on network 
+2023-03-26 06:51:53,343 [*] Best difficulty will trying to solve block 782540 was 0.013762484308468178
+2023-03-26 06:51:53,344 
+[*] Bitcoin Miner restarted
+2023-03-26 06:51:59,575 [*] Working to solve block with height 782541
+2023-03-26 06:52:59,100 [*] New block dd43228dfb77d99d58fcb4d57ec867a25cbd010f0000a0230000000000000000 detected on network 
+2023-03-26 06:52:59,100 [*] Best difficulty will trying to solve block 782541 was 0.007469136715437551
+2023-03-26 06:52:59,100 
+[*] Bitcoin Miner restarted
+2023-03-26 06:53:04,466 [*] Working to solve block with height 782541
+2023-03-26 06:58:17,027 [*] New block a4b81e0603fcf232dce18563f4f3651896d3ba8a0005ca600000000000000000 detected on network 
+2023-03-26 06:58:17,029 [*] Subscribe thread()
+2023-03-26 06:58:17,062 [*] Best difficulty will trying to solve block 782541 was 0.002993932325544862
+2023-03-26 06:58:17,062 Extra data: line 1 column 4 (char 3)
+2023-03-26 06:58:17,066 
+[*] Bitcoin Miner restarted
+2023-03-26 07:00:10,042 [*] Working to solve block with height 782544
+2023-03-26 07:14:53,036 [*] Subscribe thread()
+2023-03-26 07:14:53,038 [*] New block 443d9a5774e15816ebefad42112ab97c73a720ce0000dd330000000000000000 detected on network 
+2023-03-26 07:14:53,038 Extra data: line 1 column 4 (char 3)
+2023-03-26 07:14:53,042 [*] Best difficulty will trying to solve block 782544 was 0.0056191008893268935
+2023-03-26 07:14:53,043 
+[*] Bitcoin Miner restarted
+2023-03-26 07:16:39,078 [*] Working to solve block with height 782545
+2023-03-26 07:31:13,027 [*] New block de80aae0d549be52e371f5a7871decfccc3ba7e70000bb7b0000000000000000 detected on network 
+2023-03-26 07:31:13,028 [*] Subscribe thread()
+2023-03-26 07:31:13,074 [*] Best difficulty will trying to solve block 782545 was 0.0004716986071632688
+2023-03-26 07:31:13,075 Extra data: line 1 column 4 (char 3)
+2023-03-26 07:31:13,076 
+[*] Bitcoin Miner restarted
+2023-03-26 07:33:01,160 [*] Working to solve block with height 782546
+2023-03-26 07:59:06,034 [*] New block 38eda252f99862d8e16ab4d6f2bbaf814becfce200010af90000000000000000 detected on network 
+2023-03-26 07:59:06,073 [*] Best difficulty will trying to solve block 782546 was 0.053575046261010076
+2023-03-26 07:59:06,074 
+[*] Bitcoin Miner restarted
+2023-03-26 08:01:21,442 [*] Working to solve block with height 782547
+2023-03-26 08:18:50,033 [*] New block 8c44fef7d6456a95d86d0ad4104b85975bb4501500011e530000000000000000 detected on network 
+2023-03-26 08:18:50,036 [*] Subscribe thread()
+2023-03-26 08:18:50,039 [*] Best difficulty will trying to solve block 782547 was 0.01802944670539965
+2023-03-26 08:18:50,039 Extra data: line 1 column 4 (char 3)
+2023-03-26 08:18:50,043 
+[*] Bitcoin Miner restarted
+2023-03-26 08:20:14,372 [*] Working to solve block with height 782548
+2023-03-26 08:36:55,033 [*] New block 1fc13ad01348aab70cee50ad912cebaaabe0bf3c000145e20000000000000000 detected on network 
+2023-03-26 08:36:55,069 [*] Best difficulty will trying to solve block 782548 was 0.01774103573183868
+2023-03-26 08:36:55,070 
+[*] Bitcoin Miner restarted
+2023-03-26 08:37:58,208 [*] Working to solve block with height 782549
+2023-03-26 09:05:46,048 [*] New hash: 00000005cb917de15fd70cfd49c60494ddda8d0ff22efaf01d2e5e7fabfbec88 for block 782549
+2023-03-26 09:14:02,036 [*] New block f0cd192b176df6e962cdd5ac2f9910958e5976f000039e4a0000000000000000 detected on network 
+2023-03-26 09:14:02,037 [*] Best difficulty will trying to solve block 782549 was 0.17255693272459535
+2023-03-26 09:14:02,037 
+[*] Bitcoin Miner restarted
+2023-03-26 09:16:18,045 [*] Working to solve block with height 782550
+2023-03-26 09:18:09,028 [*] New block 8345d6d590751aefe896c12acd9e51c80f75868b00059e460000000000000000 detected on network 
+2023-03-26 09:18:09,028 [*] Best difficulty will trying to solve block 782550 was 9.942392136773173e-05
+2023-03-26 09:18:09,029 
+[*] Bitcoin Miner restarted
+2023-03-26 09:20:12,282 [*] Working to solve block with height 782551
+2023-03-26 09:31:11,041 [*] Subscribe thread()
+2023-03-26 09:31:11,052 Extra data: line 1 column 2 (char 1)
+2023-03-26 10:02:22,033 [*] New block 6421289aba3cde6a3ac8a51a8b073930c973f1980002e8700000000000000000 detected on network 
+2023-03-26 10:02:22,034 [*] Subscribe thread()
+2023-03-26 10:02:22,034 [*] Best difficulty will trying to solve block 782551 was 0.030071884059564843
+2023-03-26 10:02:22,035 Extra data: line 1 column 4 (char 3)
+2023-03-26 10:02:22,035 
+[*] Bitcoin Miner restarted
+2023-03-26 10:05:16,555 [*] Working to solve block with height 782555
+2023-03-26 10:24:47,899 [*] New block 56037f4bc852acf736030d8b6cf82c49f0d1eacd00043ebe0000000000000000 detected on network 
+2023-03-26 10:24:47,908 [*] Best difficulty will trying to solve block 782555 was 0.03909065755142093
+2023-03-26 10:24:47,908 
+[*] Bitcoin Miner restarted
+2023-03-26 10:24:53,621 [*] Working to solve block with height 782555
+2023-03-26 10:28:39,763 [*] New block 0a0119870149187382d4e170a57c915746502a210004a8fa0000000000000000 detected on network 
+2023-03-26 10:28:39,764 [*] Best difficulty will trying to solve block 782555 was 0.015118165654027382
+2023-03-26 10:28:39,764 
+[*] Bitcoin Miner restarted
+2023-03-26 10:28:45,516 [*] Working to solve block with height 782557
+2023-03-26 10:31:16,180 [*] New block 5778d888f059d64b3769760e2c93f08aa2eeecca00023c300000000000000000 detected on network 
+2023-03-26 10:31:16,190 [*] Best difficulty will trying to solve block 782557 was 0.01621013248435022
+2023-03-26 10:31:16,190 
+[*] Bitcoin Miner restarted
+2023-03-26 10:31:22,163 [*] Working to solve block with height 782558
+2023-03-26 10:37:28,978 [*] New hash: 0000000e2c7a1bd1c16a75d0b19d84f260c0ddc9c81be83c041bf77f64b5e7ec for block 782558
+2023-03-26 10:42:28,571 [*] New block d97bfb0de5b0a1381acfcd52167d810fe2310305000241050000000000000000 detected on network 
+2023-03-26 10:42:28,575 [*] Best difficulty will trying to solve block 782558 was 0.07055301740039012
+2023-03-26 10:42:28,575 
+[*] Bitcoin Miner restarted
+2023-03-26 10:42:34,659 [*] Working to solve block with height 782559
+2023-03-26 11:06:31,776 [*] New block bce0fff1ee14d11ad7168af379c0a801479f2e1e0003eda90000000000000000 detected on network 
+2023-03-26 11:06:31,780 [*] Best difficulty will trying to solve block 782559 was 0.04328585766008119
+2023-03-26 11:06:31,780 
+[*] Bitcoin Miner restarted
+2023-03-26 11:06:37,812 [*] Working to solve block with height 782560
+2023-03-26 11:10:56,089 [*] New block 99dd02ff4a845a9646a8ad67d947fa5fe056b4ba0002975a0000000000000000 detected on network 
+2023-03-26 11:10:56,093 [*] Subscribe thread()
+2023-03-26 11:10:56,094 [*] Best difficulty will trying to solve block 782560 was 0.0037016921303651014
+2023-03-26 11:10:56,096 Extra data: line 1 column 4 (char 3)
+2023-03-26 11:10:56,101 
+[*] Bitcoin Miner restarted
+2023-03-26 11:11:01,700 [*] Working to solve block with height 782560
+2023-03-26 11:22:49,566 [*] New block 19779851ccc308af33c3d1440f24e51fbc2cdc9f00048ec30000000000000000 detected on network 
+2023-03-26 11:22:49,571 [*] Best difficulty will trying to solve block 782560 was 0.04713060720816814
+2023-03-26 11:22:49,571 
+[*] Bitcoin Miner restarted
+2023-03-26 11:22:55,929 [*] Working to solve block with height 782561
+2023-03-26 11:37:30,756 [*] New block b3409e9d36f3d157606a84595c8dd43cfcc898270000c4510000000000000000 detected on network 
+2023-03-26 11:37:30,760 [*] Best difficulty will trying to solve block 782561 was 0.02901849900086398
+2023-03-26 11:37:30,760 
+[*] Bitcoin Miner restarted
+2023-03-26 11:37:36,413 [*] Working to solve block with height 782562
+2023-03-26 11:39:24,886 [*] New block eb186ee786099b57dc75def72832ac023577003f000155460000000000000000 detected on network 
+2023-03-26 11:39:24,888 [*] Best difficulty will trying to solve block 782562 was 0.052491117347257824
+2023-03-26 11:39:24,888 
+[*] Bitcoin Miner restarted
+2023-03-26 11:39:30,706 [*] Working to solve block with height 782564
+2023-03-26 11:47:54,323 [*] New block cdd2aa487392e7bb65e546fe310e77af412c829000056e2f0000000000000000 detected on network 
+2023-03-26 11:47:54,325 [*] Subscribe thread()
+2023-03-26 11:47:54,327 [*] Best difficulty will trying to solve block 782564 was 0.005877047377099645
+2023-03-26 11:47:54,328 Extra data: line 1 column 4 (char 3)
+2023-03-26 11:47:54,328 
+[*] Bitcoin Miner restarted
+2023-03-26 11:48:00,545 [*] Working to solve block with height 782565
+2023-03-26 11:52:07,607 [*] New block 071f692b2a0812c4ee1a07a0d7b39235617478bb0001c6ae0000000000000000 detected on network 
+2023-03-26 11:52:07,615 [*] Best difficulty will trying to solve block 782565 was 0.0022593933731445224
+2023-03-26 11:52:07,615 
+[*] Bitcoin Miner restarted
+2023-03-26 11:52:13,307 [*] Working to solve block with height 782566
+2023-03-26 12:05:45,219 [*] New block 433c3b9c66843c569cd97f9dc8e76590c984e188000518090000000000000000 detected on network 
+2023-03-26 12:05:45,226 [*] Best difficulty will trying to solve block 782566 was 0.04675250891525658
+2023-03-26 12:05:45,226 
+[*] Bitcoin Miner restarted
+2023-03-26 12:05:51,617 [*] Working to solve block with height 782566
+2023-03-26 12:08:04,348 [*] New block 5aa1e15194c156786e07005e589fdb8fc20ee65a000361440000000000000000 detected on network 
+2023-03-26 12:08:04,356 [*] Best difficulty will trying to solve block 782566 was 0.04210328666528956
+2023-03-26 12:08:04,357 
+[*] Bitcoin Miner restarted
+2023-03-26 12:08:10,253 [*] Working to solve block with height 782568
+2023-03-26 12:09:31,371 [*] New block 588b3f6164b9903cdecf49e979dc14e81c5f05c7000161490000000000000000 detected on network 
+2023-03-26 12:09:31,371 [*] Best difficulty will trying to solve block 782568 was 0.011936260082259939
+2023-03-26 12:09:31,371 
+[*] Bitcoin Miner restarted
+2023-03-26 12:09:37,108 [*] Working to solve block with height 782569
+2023-03-26 12:17:06,095 false
+2023-03-26 22:09:23,312 [*] Subscribe thread started.
+2023-03-26 22:09:27,318 [*] Bitcoin Miner Thread Started
+2023-03-26 22:09:28,178 [*] Working to solve block with height 782623
+2023-03-26 22:13:07,328 [*] New block 4b4ec84bfba180a6135b36df24a84608cb890ac4000296930000000000000000 detected on network 
+2023-03-26 22:13:07,331 [*] Best difficulty will trying to solve block 782623 was 0.024950330979447714
+2023-03-26 22:13:07,331 
+[*] Bitcoin Miner restarted
+2023-03-26 22:13:14,217 [*] Working to solve block with height 782624
+2023-03-26 22:13:26,949 [*] New block 261a3b53150e147a34e54ff33b89b13020a394c400021f6a0000000000000000 detected on network 
+2023-03-26 22:13:26,949 [*] Best difficulty will trying to solve block 782624 was 0.0023606196677465963
+2023-03-26 22:13:26,949 
+[*] Bitcoin Miner restarted
+2023-03-26 22:13:33,077 [*] Working to solve block with height 782624
+2023-03-26 22:20:16,876 false
+2023-03-26 22:33:21,413 [*] Subscribe thread started.
+2023-03-26 22:33:25,417 [*] Bitcoin Miner Thread Started
+2023-03-26 22:33:26,484 [*] Working to solve block with height 782625
+2023-03-26 22:33:28,678 false
+2023-03-27 00:07:30,480 [*] Subscribe thread started.
+2023-03-27 00:07:34,486 [*] Bitcoin Miner Thread Started
+2023-03-27 00:07:35,323 [*] Working to solve block with height 782633
+2023-03-27 00:07:37,715 false
+2023-03-27 00:11:28,776 [*] Subscribe thread started.
+2023-03-27 00:11:32,781 [*] Bitcoin Miner Thread Started
+2023-03-27 05:01:21,664 [*] Subscribe thread started.
+2023-03-27 05:01:25,677 [*] Bitcoin Miner Thread Started
+2023-03-27 05:01:26,628 [*] Working to solve block with height 782669
+2023-03-27 05:02:52,617 [*] Subscribe thread started.
+2023-03-27 05:02:56,619 [*] Bitcoin Miner Thread Started
+2023-03-27 05:02:57,466 [*] Working to solve block with height 782670
+2023-03-27 05:03:01,851 false
+2023-03-27 05:05:37,355 [*] Subscribe thread started.
+2023-03-27 05:05:41,358 [*] Bitcoin Miner Thread Started
+2023-03-27 05:05:41,798 [*] Working to solve block with height 782670
+2023-03-27 05:05:42,972 false
+2023-03-27 05:28:09,004 [*] Subscribe thread started.
+2023-03-27 05:28:13,010 [*] Bitcoin Miner Thread Started
+2023-03-27 05:28:14,451 [*] Working to solve block with height 782671
+2023-03-27 05:33:28,135 false
+2023-03-27 05:34:19,086 [*] Subscribe thread started.
+2023-03-27 05:34:23,091 [*] Bitcoin Miner Thread Started
+2023-03-27 05:34:25,292 [*] Working to solve block with height 782671
+2023-03-27 05:34:34,076 false
+2023-03-27 05:35:11,613 [*] Subscribe thread started.
+2023-03-27 05:35:15,618 [*] Bitcoin Miner Thread Started
+2023-03-27 05:35:16,848 [*] Working to solve block with height 782671
+2023-03-27 05:36:59,652 [*] New block 1f0a2a40fb477ac4730295e6f22ad1643bfa78a9000248bc0000000000000000 detected on network 
+2023-03-27 05:36:59,653 [*] Best difficulty will trying to solve block 782671 was 0.007595538175246531
+2023-03-27 05:36:59,653 
+[*] Bitcoin Miner restarted
+2023-03-27 05:37:05,408 [*] Working to solve block with height 782672
+2023-03-27 05:43:14,889 false
+2023-03-27 05:47:37,046 [*] Subscribe thread started.
+2023-03-27 05:47:41,050 [*] Bitcoin Miner Thread Started
+2023-03-27 05:47:42,381 [*] Working to solve block with height 782672
+2023-03-27 05:59:50,574 false
+2023-03-27 06:00:03,054 [*] Subscribe thread started.
+2023-03-27 06:00:07,059 [*] Bitcoin Miner Thread Started
+2023-03-27 06:00:08,473 [*] Working to solve block with height 782672
+2023-03-27 06:05:25,404 [*] New block 69812ee2f02ca120fb4479f168d4ce12989575bc000107d10000000000000000 detected on network 
+2023-03-27 06:05:25,408 [*] Best difficulty will trying to solve block 782672 was 0.011137918665972584
+2023-03-27 06:05:25,408 
+[*] Bitcoin Miner restarted
+2023-03-27 06:05:31,506 [*] Working to solve block with height 782673
+2023-03-27 06:08:34,698 [*] New block 1ac4c273f9ec3f7688b86fd4bd2de78b25b670450001425c0000000000000000 detected on network 
+2023-03-27 06:08:34,702 [*] Best difficulty will trying to solve block 782673 was 0.017987728543960167
+2023-03-27 06:08:34,702 
+[*] Bitcoin Miner restarted
+2023-03-27 06:08:40,312 [*] Working to solve block with height 782673
